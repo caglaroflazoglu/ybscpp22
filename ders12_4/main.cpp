@@ -11,9 +11,9 @@ int main()
 
     for(int i=0;i<50;i++)
     {
-        if(metin[i]=='\0')
+        if(metin[i]=='\0') // metnin son degerine gelindi mi?
         {
-            break;
+            break; // gelindi ise donguyu kir
         }
         if(metin[i]>='a' && metin[i]<='z')
         {
