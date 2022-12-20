@@ -20,6 +20,7 @@ int main()
         {
             cout<<" ";
         }
+
         for(int y=0;y<yildizsay;y++)
         {
             cout<<ch;
